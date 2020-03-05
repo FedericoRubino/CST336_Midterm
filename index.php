@@ -1,1 +1,1 @@
-<?php header('Location: .OpenLibrary/index.html'); ?>
+<?php header('Location: OpenLibrary/index.html'); ?>
