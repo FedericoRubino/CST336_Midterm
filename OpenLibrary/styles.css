@@ -1,0 +1,38 @@
+body {
+	padding-top: 30px;
+	width:100%;
+}
+
+.jumbotron {
+	color: darkblue;
+	background: lightblue;
+	text-align: left;
+
+}
+
+.flex-container {
+	display: flex;
+	flex-direction: row;
+}
+
+.flex-item {
+	width: 100%;
+	text-align: left;
+	padding:50px;
+
+}
+
+.flex-item > img {
+	height: 50%;
+}
+
+.cover {
+	border: solid 5px black;
+	border-radius: 10px
+}
+
+.info {
+	margin: 50px;
+	font-size: 25px;
+
+}
