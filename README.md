@@ -1,4 +1,6 @@
-# CST336_Midterm
+# CST336-Section336
+# Midterm_Spring 2020
+
 Public repository to submit the midterm 
 
 Question #1
