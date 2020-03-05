@@ -19,9 +19,16 @@ Question #3
 
 Question #4
   html
+  
     head
+    
       title -> text
+      
     body
+    
       img
+      
       p
+      
         span -> text
+        
